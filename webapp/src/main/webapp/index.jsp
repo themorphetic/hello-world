@@ -31,7 +31,10 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> C ya, Hakuna Matata!!! </h1>
+   <h1> FELIZ NATAL SEU ANIMAL IMUNDO!!! </h1>
+   <br>
+   <h1> (E um feliz ano novo.)! </h1>
+
 
   
 </form>
